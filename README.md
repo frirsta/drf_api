@@ -110,3 +110,11 @@ Happy coding!
 pip3 install 'django<4'
 pip install django-cloudinary-storage==0.3.0
 pip install Pillow==8.2.0
+pip install django-filter
+pip install dj-rest-auth==2.1.9
+pip install djangorestframework-simplejwt==4.7.2
+pip install dj_database_url
+pip install gunicorn
+pip install django-cors-headers
+pip install djangorestframework
+pip install "django-phonenumber-field[phonenumberslite]"
