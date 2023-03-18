@@ -119,3 +119,6 @@ pip install django-cors-headers
 pip install djangorestframework
 pip install "django-phonenumber-field[phonenumberslite]"
 pip3 install dj_database_url==0.5.0 psycopg2
+
+djangorestframework-simplejwt==4.7.2
+Pillow==8.2.0
